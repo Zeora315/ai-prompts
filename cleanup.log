@@ -1,5 +1,7 @@
-Traceback (most recent call last):
-  File "d:\VidPic\aitsc\cleanup.py", line 58, in <module>
-    os.rename(tmp, dst)
-    ~~~~~~~~~^^^^^^^^^^
-FileNotFoundError: [WinError 2] 系统找不到指定的文件。: 'd:\\VidPic\\aitsc\\my-docs\\docs\\content-creation\\__tmp_0.md' -> 'd:\\VidPic\\aitsc\\my-docs\\docs\\content-creation\\Kimi-Xmind-将-PDF-生成思维导图.md'
+
+added 2 packages, and audited 214 packages in 16s
+
+133 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities

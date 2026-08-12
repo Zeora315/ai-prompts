@@ -1,0 +1,37 @@
+[
+  {
+    "text": "工作與效率",
+    "link": "/zh-TW/work-efficiency/meeting-summary",
+    "activeMatch": "/zh-TW/work-efficiency/"
+  },
+  {
+    "text": "內容創作",
+    "link": "/zh-TW/content-creation/Kimi-Xmind-将-PDF-生成思维导图",
+    "activeMatch": "/zh-TW/content-creation/Kimi-Xmind-将-PDF-生成思维导图"
+  },
+  {
+    "text": "學術與專業",
+    "link": "/zh-TW/academic/Kimi-PEST-模型搞定行业分析",
+    "activeMatch": "/zh-TW/academic/Kimi-PEST-模型搞定行业分析"
+  },
+  {
+    "text": "其他",
+    "link": "/zh-TW/others/kimi-canva",
+    "activeMatch": "/zh-TW/others/kimi-canva"
+  },
+  {
+    "text": "快速上手",
+    "link": "/zh-TW/quick-start",
+    "position": "right"
+  },
+  {
+    "text": "AI 聚合",
+    "link": "/zh-TW/ai-hub",
+    "position": "right"
+  },
+  {
+    "text": "GitHub",
+    "link": "https://github.com/your-username/your-repo",
+    "position": "right"
+  }
+]

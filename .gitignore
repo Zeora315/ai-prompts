@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output (Vercel builds this itself)
+my-docs/doc_build/
+.rspress/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

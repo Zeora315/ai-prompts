@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Work & Efficiency",
+    "link": "/en/work-efficiency/meeting-summary",
+    "activeMatch": "/en/work-efficiency/"
+  },
+  {
+    "text": "Content Creation",
+    "link": "/en/content-creation/Kimi-Xmind-Convert-PDF-to-Mind-Map",
+    "activeMatch": "/en/content-creation/Kimi-Xmind-Convert-PDF-to-Mind-Map"
+  },
+  {
+    "text": "Academic & Pro",
+    "link": "/en/academic/Kimi-PEST-Model-for-Industry-Analysis",
+    "activeMatch": "/en/academic/Kimi-PEST-Model-for-Industry-Analysis"
+  },
+  {
+    "text": "Others",
+    "link": "/en/others/kimi-canva",
+    "activeMatch": "/en/others/kimi-canva"
+  },
+  {
+    "text": "Quick Start",
+    "link": "/en/quick-start",
+    "position": "right"
+  },
+  {
+    "text": "AI Hub",
+    "link": "/en/ai-hub",
+    "position": "right"
+  },
+  {
+    "text": "GitHub",
+    "link": "https://github.com/your-username/your-repo",
+    "position": "right"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "name": "rspress-doc-template",
+  "name": "ai-prompts",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -8,6 +8,10 @@
     "dev": "rspress dev",
     "preview": "rspress preview"
   },
+  "vercel": {
+    "buildCommand": "npm run build",
+    "outputDirectory": "doc_build"
+  },
   "dependencies": {
     "@rspress/core": "^2.0.16"
   },
@@ -15,6 +19,7 @@
     "@types/node": "^22.8.1",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
+    "opencc-js": "^1.4.1",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   }
