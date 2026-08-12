@@ -1,0 +1,189 @@
+🔥 Rspress v2.0.17
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+warn    [i18n] The following i18n keys are missing for some languages and have fallen back to 'en':
+      [90m{
+  "languagesText": "...",
+  "themeText": "...",
+  "versionsText": "...",
+  "menuTitle": "...",
+  "outlineTitle": "...",
+  "scrollToTopText": "...",
+  "lastUpdatedText": "...",
+  "lastUpdatedAuthorText": "...",
+  "prevPageText": "...",
+  "nextPageText": "...",
+  "sourceCodeText": "...",
+  "searchPlaceholderText": "...",
+  "searchPanelCancelText": "...",
+  "searchNoResultsText": "...",
+  "searchSuggestedQueryText": "...",
+  "overview.filterNameText": "...",
+  "overview.filterPlaceholderText": "...",
+  "overview.filterNoResultText": "...",
+  "openInText": "...",
+  "copyMarkdownText": "...",
+  "copyMarkdownLinkText": "...",
+  "editLinkText": "...",
+  "codeButtonGroupCopyButtonText": "...",
+  "codeButtonGroupWrapButtonText": "...",
+  "notFoundText": "...",
+  "takeMeHomeText": "...",
+  "promptCopyText": "...",
+  "promptCopiedText": "...",
+  "promptExpandText": "...",
+  "promptCollapseText": "..."
+}[39m
+      You can provide translations via [36mi18n.json[39m file or [36mi18nSource[39m config in rspress.config.ts
+ready   built in 3.05s
+start   building virtual modules
+ready   built in 0.49s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 248 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 系统找不到指定的路径。 (os error 3)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.32s
+start   building docs\zh\index.md
+ready   built in 2.20s
+start   building docs\zh\quick-start.md
+ready   built in 0.14s
+start   building zh\work-efficiency\meeting-summary.md
+ready   built in 0.14s
+start   building zh\work-efficiency\meeting-summary.md and 2 more
+ready   built in 0.07s
+start   building zh\work-efficiency\meeting-summary.md and 4 more
+ready   built in 0.07s
+start   building zh\work-efficiency\weekly-report.md and 5 more
+ready   built in 0.10s
+start   building zh\content-creation\Kimi-小红书一键生成爆款文案.md and 7 more
+ready   built in 0.15s
+start   building zh\content-creation\PPT生成指令.md and 7 more
+ready   built in 0.14s
+start   building zh\content-creation\PPT生成指令.md and 9 more
+ready   built in 0.22s
+start   building zh\content-creation\PPT生成指令.md and 13 more
+ready   built in 0.16s
+start   building zh\content-creation\视频内容分析师.md and 13 more
+ready   built in 0.11s
+start   building zh\content-creation\短剧脚本创作.md and 10 more
+ready   built in 0.13s
+start   building zh\content-creation\儿童绘本创作者.md and 9 more
+ready   built in 0.10s
+start   building zh\content-creation\SUNO歌词生成.md and 8 more
+ready   built in 0.12s
+start   building zh\content-creation\小红书全能写手.md and 6 more
+ready   built in 0.10s
+start   building zh\content-creation\小红书全能写手.md and 5 more
+ready   built in 0.11s
+start   building zh\content-creation\电商链接分析.md and 2 more
+ready   built in 0.19s
+start   building zh\content-creation\电商链接分析.md and 1 more
+ready   built in 0.12s
+start   building docs\zh-TW\quick-start.md
+ready   built in 0.15s
+start   building docs\en\quick-start.md
+ready   built in 0.17s
+start   building zh-TW\work-efficiency\meeting-summary.md
+ready   built in 0.13s
+start   building zh-TW\content-creation\Kimi-Xmind-将-PDF-生成思维导图.md
+ready   built in 0.12s
+start   building zh-TW\content-creation\Kimi-小红书一键生成爆款文案.md
+ready   built in 0.11s
+start   building zh-TW\content-creation\Kimi-小红书一键生成爆款文案.md and 1 more
+ready   built in 0.15s
+start   building zh-TW\content-creation\Prompt创作助手.md
+ready   built in 0.16s
+start   building zh-TW\content-creation\Prompt创作助手.md and 1 more
+ready   built in 0.15s
+start   building zh-TW\content-creation\Stable-Diffusion-prompt-生成器1.md
+ready   built in 0.14s
+start   building zh-TW\content-creation\Stable-Diffusion-prompt-生成器1.md and 1 more
+ready   built in 0.18s
+start   building zh-TW\academic\论文-Kimchat指令模型手册.md
+ready   built in 0.15s
+start   building zh-TW\academic\论文-Kimchat指令模型手册.md and 1 more
+ready   built in 0.19s
+start   building zh-TW\content-creation\小红书爆款生成器.md
+ready   built in 0.10s
+start   building zh-TW\content-creation\儿童绘本创作者.md
+ready   built in 0.14s
+start   building zh-TW\content-creation\小红书全能写手.md
+ready   built in 0.17s
+start   building zh-TW\content-creation\小红书全能写手.md and 1 more
+ready   built in 0.14s
+start   building zh-TW\content-creation\小红书数据分析.md and 1 more
+ready   built in 0.16s
+start   building zh-TW\content-creation\论文降重，去AI化提示词.md
+ready   built in 0.23s
+start   building zh-TW\content-creation\论文降重，去AI化提示词.md and 1 more
+ready   built in 0.11s
+start   building zh-TW\content-creation\论文降重，去AI化提示词.md and 5 more
+ready   built in 0.14s
+start   building zh-TW\content-creation\宣传slogan提示词.md and 3 more
+ready   built in 0.11s
+start   building zh-TW\academic\网课学习助手（1分钟刷完一节网课）.md
+ready   built in 0.14s
+start   building zh-TW\academic\网课学习助手（1分钟刷完一节网课）.md and 1 more
+ready   built in 0.11s
+start   building zh-TW\academic\Kimi苏格拉底式提问法.md and 2 more
+ready   built in 0.16s
+start   building zh-TW\academic\Kimi苏格拉底式提问法.md and 1 more
+ready   built in 0.11s
+start   building zh-TW\academic\英文文献阅读指令.md
+ready   built in 0.17s
+start   building zh-TW\others\kimi-canva.md
+ready   built in 0.21s
+start   building zh-TW\others\thinking-prompt，让claude-3.5变成gpt-O1提示词.md
+ready   built in 0.17s
+start   building zh-TW\others\即梦AI-儿童绘本故事指令.md
+ready   built in 0.20s
+start   building zh-TW\others\即梦AI-儿童绘本故事指令.md and 1 more
+ready   built in 0.14s
+start   building zh-TW\academic\论文审稿提示词，用来对论文优化改写.md
+ready   built in 0.12s
+start   building zh-TW\academic\利用记忆宫殿背诵课文-2.md
+ready   built in 0.14s
+start   building zh-TW\content-creation\历史人物轶事解说文案.md
+ready   built in 0.19s
+start   building zh-TW\content-creation\历史人物轶事解说文案.md and 1 more
+ready   built in 0.19s
+start   building docs\zh-TW\index.md
+ready   built in 0.14s
+start   building zh\others\kimi-canva.md
+ready   built in 0.15s
+start   building zh\others\PPT整理提示词.md
+ready   built in 0.15s
+start   building zh\others\视频内容分析指令.md
+ready   built in 0.16s
+start   building zh\others\视频内容分析指令.md and 1 more
+ready   built in 0.12s
+start   building zh\others\视频内容分析指令.md and 2 more
+ready   built in 0.14s
+start   building zh\others\thinking-prompt，让claude-3.5变成gpt-O1提示词.md
+ready   built in 0.13s
+start   building en\others\kimi-canva.md
+ready   built in 0.15s
+start   building en\content-creation\小红书全能写手.md
+ready   built in 0.36s
+start   building en\content-creation\小红书数据分析.md
+ready   built in 0.23s
+start   building en\work-efficiency\weekly-report.md
+ready   built in 0.28s
+start   building en\work-efficiency\weekly-report.md and 1 more
+ready   built in 0.14s
+start   building en\work-efficiency\meeting-summary.md and 1 more
+ready   built in 0.18s
+start   building en\work-efficiency\meeting-summary.md
+ready   built in 0.21s
+start   building en\academic\论文审稿提示词，用来对论文优化改写.md
+ready   built in 0.34s
+start   building zh-TW\academic\利用记忆宫殿背诵课文.md
+ready   built in 0.23s
+start   building zh-TW\academic\利用记忆宫殿背诵课文.md and 1 more
+ready   built in 0.14s
+start   building zh-TW\academic\教案写作指令.md and 1 more
+ready   built in 0.17s
+start   building zh-TW\academic\教案写作指令.md
+ready   built in 0.15s
