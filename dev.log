@@ -187,3 +187,1356 @@ start   building zh-TW\academic\教案写作指令.md and 1 more
 ready   built in 0.17s
 start   building zh-TW\academic\教案写作指令.md
 ready   built in 0.15s
+start   building docs\zh\ai-hub.md
+ready   built in 0.28s
+start   building zh\content-creation\Kimi-Xmind-将-PDF-生成思维导图.md
+ready   built in 0.25s
+start   building zh\content-creation\Prompt创作助手.md
+ready   built in 0.15s
+start   building zh\content-creation\小红书爆款生成器.md
+ready   built in 0.27s
+start   building zh\content-creation\爆款小红书提示词.md
+ready   built in 0.23s
+start   building zh\content-creation\爆款小红书提示词.md and 1 more
+ready   built in 0.12s
+start   building zh\content-creation\营销活动策划提示词.md and 3 more
+ready   built in 0.21s
+start   building zh\content-creation\文章润色提示词.md
+ready   built in 0.28s
+start   building zh\content-creation\文章润色提示词.md and 1 more
+ready   built in 0.28s
+start   building zh\content-creation\歌词作家提示词.md and 1 more
+ready   built in 0.32s
+start   building zh\academic\Kimi-PEST-模型搞定行业分析.md and 1 more
+ready   built in 0.34s
+start   building zh\academic\Kimi-SWOT-企业分析.md and 1 more
+ready   built in 0.23s
+start   building zh\content-creation\爆款短视频脚本指令-2.md and 4 more
+ready   built in 0.20s
+start   building zh\content-creation\爆款短视频脚本指令-2.md and 5 more
+ready   built in 0.13s
+start   building zh\content-creation\爆款短视频脚本指令-2.md and 6 more
+ready   built in 0.19s
+start   building zh\content-creation\朋友圈软广文案生成指令-2.md and 3 more
+ready   built in 0.25s
+start   building zh\content-creation\仿写名人语录指令-2.md and 1 more
+ready   built in 0.12s
+start   building zh\academic\Kimi苏格拉底式提问法.md
+ready   built in 0.19s
+start   building zh\academic\Kimi苏格拉底式提问法.md and 1 more
+ready   built in 0.19s
+start   building zh\academic\Kimi苏格拉底式提问法.md and 3 more
+ready   built in 0.20s
+start   building zh\academic\英文文献阅读指令.md and 1 more
+ready   built in 0.16s
+start   building zh\academic\网课学习助手（1分钟刷完一节网课）.md
+ready   built in 0.16s
+start   building zh\others\对标博主账号分析.md
+ready   built in 0.19s
+start   building zh\others\PPT整理提示词-2.md
+ready   built in 0.08s
+start   building zh\others\对标博主账号分析-2.md
+ready   built in 0.22s
+start   building zh\academic\教案写作指令-2.md
+ready   built in 0.25s
+start   building zh\academic\利用记忆宫殿背诵课文.md and 1 more
+ready   built in 0.22s
+start   building zh\academic\论文审稿提示词，用来对论文优化改写.md
+ready   built in 0.32s
+start   building zh\academic\论文审稿提示词，用来对论文优化改写.md and 1 more
+ready   built in 0.29s
+
+✨ add [32mdocs\zh\drawing\lens.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+
+✨ add [32mdocs\zh\drawing\catgirl.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 8.65s
+start   building virtual modules
+ready   built in 1.71s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 255 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 1.74s
+
+✨ add [32mdocs\zh\paper\english-essay-grading.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.33s
+start   building virtual modules
+ready   built in 0.25s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 261 more
+ready   built in 0.27s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+
+✨ add [32mdocs\zh\novel\general-template.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+
+✨ add [32mdocs\zh\video\sora2-portrait.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+
+✨ add [32mdocs\zh\tools\chatgpt-practical.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.97s
+start   building virtual modules
+ready   built in 0.25s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 267 more
+ready   built in 0.26s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+
+✨ change [32mrspress.config.ts[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.47s
+start   building virtual modules
+ready   built in 0.28s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 267 more
+ready   built in 0.22s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+
+✨ add [32mdocs\zh\security\deepseek-jailbreak.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+
+✨ add [32mdocs\zh\security\jailbreak-prompts-1114.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.31s
+start   building virtual modules
+ready   built in 0.29s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+
+✨ add [32mdocs\zh\security\fanren-kepojia.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.63s
+start   building virtual modules
+
+✨ add [32mdocs\zh\security\longniang.md[39m, dev server will restart...
+
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.28s
+start   building virtual modules
+ready   built in 0.31s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 277 more
+ready   built in 0.29s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+
+✨ change [32mrspress.config.ts[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.56s
+start   building virtual modules
+ready   built in 0.26s
+start   building removed D:/VidPic/aitsc/my-docs/docs/zh-TW/guide/start/getting-started.md and 87 more
+ready   built in 0.23s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+start   building docs\en\index.md
+ready   built in 0.78s
+start   building docs\zh\quick-start.md
+ready   built in 1.63s
+start   building docs\zh\quick-start.md and 1 more
+ready   built in 0.85s
+start   building docs\zh-TW\quick-start.md
+ready   built in 0.85s
+start   building zh\content-creation\Prompt创作助手.md
+ready   built in 0.67s
+start   building zh\content-creation\Prompt创作助手.md and 1 more
+ready   built in 0.47s
+start   building zh\content-creation\Prompt创作助手.md and 4 more
+ready   built in 0.63s
+start   building zh\content-creation\Stable-Diffusion-prompt-生成器1.md and 6 more
+ready   built in 0.36s
+start   building zh\content-creation\情绪化爆款标题指令.md and 5 more
+ready   built in 0.52s
+start   building zh\content-creation\情绪化爆款标题指令.md and 6 more
+ready   built in 0.42s
+start   building zh\content-creation\情绪化爆款标题指令.md and 7 more
+ready   built in 0.49s
+start   building zh\academic\单词记忆.md and 5 more
+ready   built in 0.45s
+start   building zh\others\对标博主账号分析.md and 4 more
+ready   built in 1.08s
+start   building zh\drawing\lens.md and 4 more
+ready   built in 0.49s
+start   building zh\drawing\catgirl.md and 3 more
+ready   built in 0.50s
+start   building zh\paper\literature-analysis.md and 2 more
+ready   built in 0.43s
+start   building zh\paper\insert-references.md and 1 more
+ready   built in 0.53s
+start   building zh\novel\general-template.md
+ready   built in 0.55s
+start   building zh\security\yusaka-misaka.md
+ready   built in 0.58s
+start   building zh\video\sora2-guide.md
+ready   built in 0.68s
+start   building zh\video\sora2-guide.md and 1 more
+ready   built in 0.38s
+start   building zh\video\sora2-guide.md and 4 more
+ready   built in 0.64s
+start   building zh\video\sora2-portrait.md and 6 more
+ready   built in 0.72s
+start   building zh\security\jailbreak-prompts-1114.md and 2 more
+ready   built in 0.43s
+start   building zh\paper\free-aigc-check.md
+ready   built in 1.13s
+start   building zh\paper\top-academic.md
+ready   built in 1.22s
+start   building zh\paper\top-academic.md and 1 more
+ready   built in 0.57s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.92s
+start   building zh\paper\literature-review.md
+ready   built in 0.79s
+start   building zh\others\thinking-prompt，让claude-3.5变成gpt-O1提示词.md
+ready   built in 0.89s
+start   building zh\work-efficiency\project-retrospective.md
+ready   built in 0.54s
+start   building zh\work-efficiency\project-retrospective.md and 1 more
+ready   built in 0.37s
+start   building zh\content-creation\Kimi-Xmind-将-PDF-生成思维导图.md and 1 more
+ready   built in 0.52s
+start   building zh\content-creation\Kimi-Xmind-将-PDF-生成思维导图.md and 2 more
+ready   built in 0.51s
+start   building zh\content-creation\爆款作品黄金发布时间指令.md
+ready   built in 1.32s
+start   building zh\content-creation\爆款作品黄金发布时间指令.md and 1 more
+ready   built in 1.31s
+start   building zh\security\xiaoshuo-chuangzuo.md
+ready   built in 2.20s
+start   building zh\security\xiaoshuo-chuangzuo.md and 1 more
+ready   built in 0.67s
+start   building zh\drawing\chatgpt-drawing.md and 2 more
+ready   built in 1.22s
+start   building zh\drawing\chatgpt-drawing.md and 2 more
+ready   built in 0.77s
+start   building zh\drawing\character.md
+ready   built in 0.62s
+start   building zh\video\sora2-register.md
+ready   built in 1.47s
+start   building zh\video\sora2-register.md and 1 more
+ready   built in 1.37s
+start   building zh\video\sora2-register.md and 2 more
+ready   built in 0.86s
+start   building zh\tools\nano-banana.md
+ready   built in 0.67s
+start   building zh\security\faq-huli.md
+ready   built in 0.83s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.69s
+start   building zh\drawing\character.md
+ready   built in 0.28s
+start   building zh\drawing\lens.md
+ready   built in 0.26s
+start   building zh\drawing\costume.md
+ready   built in 0.29s
+start   building zh\drawing\couple.md
+ready   built in 2.86s
+start   building zh\drawing\catgirl.md
+ready   built in 0.20s
+start   building zh\drawing\catgirl.md
+ready   built in 0.21s
+start   building zh\drawing\expression.md
+ready   built in 0.22s
+start   building zh\drawing\expression.md
+ready   built in 0.21s
+start   building zh\drawing\chatgpt-drawing.md
+ready   built in 0.28s
+start   building zh\paper\literature-analysis.md
+ready   built in 0.26s
+start   building zh\paper\literature-analysis.md
+ready   built in 0.21s
+start   building zh\paper\literature-review.md
+ready   built in 0.23s
+start   building zh\paper\literature-review.md
+ready   built in 0.23s
+start   building zh\paper\top-academic.md
+ready   built in 0.22s
+start   building zh\paper\insert-references.md
+ready   built in 0.45s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.22s
+start   building zh\novel\general-template.md
+ready   built in 0.20s
+start   building zh\video\sora2-guide.md
+ready   built in 0.20s
+start   building zh\video\sora2-portrait.md
+ready   built in 0.17s
+start   building zh\video\sora2-register.md
+ready   built in 0.18s
+start   building zh\video\sora2-register.md
+ready   built in 0.19s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.19s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.20s
+start   building zh\tools\nano-banana.md
+ready   built in 0.20s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.20s
+start   building zh\security\grok3-jailbreak.md
+ready   built in 0.22s
+start   building zh\security\unlock-teach-text.md
+ready   built in 0.22s
+start   building zh\security\jailbreak-prompts-1114.md
+ready   built in 0.24s
+start   building zh\security\jailbreak-prompts-1114.md
+ready   built in 0.20s
+start   building zh\security\unlock-teach-0924.md
+ready   built in 0.18s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.20s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.20s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.19s
+start   building zh\security\faq-huli.md
+ready   built in 0.24s
+start   building zh\security\longniang.md
+ready   built in 0.20s
+start   building zh\security\meimo.md
+ready   built in 0.22s
+start   building zh\security\xiaoshuo-chuangzuo.md
+ready   built in 0.36s
+start   building zh\security\yusaka-misaka.md
+ready   built in 0.22s
+start   building docs\zh\index.md
+ready   built in 0.26s
+start   building zh\security\fanren-kepojia.md
+ready   built in 1.78s
+start   building zh\drawing\lens.md
+ready   built in 0.26s
+start   building zh\drawing\character.md
+ready   built in 0.27s
+start   building zh\drawing\character.md
+ready   built in 0.21s
+start   building zh\drawing\costume.md
+ready   built in 0.25s
+start   building zh\drawing\expression.md
+ready   built in 0.21s
+start   building zh\drawing\couple.md
+ready   built in 0.18s
+start   building zh\drawing\couple.md
+ready   built in 0.20s
+start   building zh\drawing\chatgpt-drawing.md
+ready   built in 0.20s
+start   building zh\drawing\chatgpt-drawing.md
+ready   built in 0.18s
+start   building zh\drawing\catgirl.md
+ready   built in 0.20s
+start   building zh\paper\literature-analysis.md
+ready   built in 0.28s
+start   building zh\paper\literature-review.md
+ready   built in 0.26s
+start   building zh\paper\top-academic.md
+ready   built in 0.26s
+start   building zh\paper\insert-references.md
+ready   built in 0.18s
+start   building zh\novel\general-template.md
+ready   built in 0.21s
+start   building zh\video\sora2-guide.md
+ready   built in 0.20s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.21s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.22s
+start   building zh\video\sora2-register.md
+ready   built in 0.22s
+start   building zh\video\sora2-register.md
+ready   built in 0.21s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.18s
+start   building zh\video\sora2-portrait.md
+ready   built in 0.20s
+start   building zh\security\grok3-jailbreak.md
+ready   built in 0.17s
+start   building zh\security\unlock-teach-text.md
+ready   built in 0.18s
+start   building zh\tools\nano-banana.md
+ready   built in 0.20s
+start   building zh\security\unlock-teach-0924.md
+ready   built in 0.20s
+start   building zh\security\unlock-teach-0924.md
+ready   built in 0.19s
+start   building zh\security\jailbreak-prompts-1114.md
+ready   built in 0.21s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.21s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.20s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.16s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.21s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.23s
+start   building zh\security\longniang.md
+ready   built in 0.21s
+start   building zh\security\longniang.md
+ready   built in 0.20s
+start   building zh\security\xiaoshuo-chuangzuo.md
+ready   built in 0.20s
+start   building zh\security\faq-huli.md
+ready   built in 0.20s
+start   building zh\security\meimo.md
+ready   built in 0.20s
+start   building zh\security\yusaka-misaka.md
+ready   built in 0.20s
+start   building zh\drawing\lens.md
+ready   built in 0.23s
+start   building zh\drawing\lens.md
+ready   built in 0.20s
+start   building zh\drawing\character.md
+ready   built in 0.23s
+start   building zh\drawing\expression.md
+ready   built in 0.20s
+start   building zh\drawing\costume.md
+ready   built in 0.21s
+start   building zh\drawing\couple.md
+ready   built in 0.22s
+start   building zh\drawing\catgirl.md
+ready   built in 0.21s
+start   building zh\drawing\chatgpt-drawing.md
+ready   built in 0.20s
+start   building zh\drawing\chatgpt-drawing.md
+ready   built in 0.19s
+start   building zh\paper\literature-analysis.md
+ready   built in 0.21s
+start   building zh\paper\top-academic.md
+ready   built in 0.23s
+start   building zh\paper\literature-review.md
+ready   built in 0.21s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.19s
+start   building zh\paper\insert-references.md
+ready   built in 0.22s
+start   building zh\paper\insert-references.md
+ready   built in 0.20s
+start   building zh\novel\general-template.md
+ready   built in 0.21s
+start   building zh\video\sora2-guide.md
+ready   built in 0.21s
+start   building zh\video\sora2-portrait.md
+ready   built in 0.21s
+start   building zh\video\sora2-portrait.md
+ready   built in 0.21s
+start   building zh\tools\nano-banana.md
+ready   built in 0.22s
+start   building zh\security\unlock-teach-text.md
+ready   built in 0.20s
+start   building zh\security\unlock-teach-text.md
+ready   built in 0.21s
+start   building zh\video\sora2-register.md
+ready   built in 0.22s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.21s
+start   building zh\security\unlock-teach-0924.md
+ready   built in 0.22s
+start   building zh\security\unlock-teach-0924.md
+ready   built in 0.21s
+start   building zh\security\grok3-jailbreak.md
+ready   built in 0.22s
+start   building zh\security\grok3-jailbreak.md
+ready   built in 0.21s
+start   building zh\security\jailbreak-prompts-1114.md
+ready   built in 0.21s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.19s
+start   building zh\security\faq-huli.md
+ready   built in 0.23s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.22s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.20s
+start   building zh\security\longniang.md
+ready   built in 0.21s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.20s
+start   building zh\security\meimo.md
+ready   built in 0.21s
+start   building zh\security\xiaoshuo-chuangzuo.md
+ready   built in 0.23s
+start   building zh\security\yusaka-misaka.md
+ready   built in 0.20s
+start   building zh\security\unlock-teach-0924.md
+ready   built in 4.61s
+start   building zh\content-creation\爆款文章仿写AI指令.md
+ready   built in 1.93s
+start   building zh\content-creation\爆款文章仿写AI指令.md and 2 more
+ready   built in 0.41s
+start   building zh\content-creation\爆款文章仿写AI指令.md and 3 more
+ready   built in 4.34s
+start   building zh\content-creation\短视频文案专家.md and 2 more
+ready   built in 3.06s
+start   building zh\work-efficiency\weekly-report.md and 1 more
+ready   built in 3.65s
+
+✨ change [32mrspress.config.ts[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 17.2s
+start   building virtual modules
+ready   built in 2.71s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 279 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 3.53s
+start   building docs\zh\index.md
+ready   built in 1.46s
+start   building zh\content-creation\短视频文案专家.md
+ready   built in 6.21s
+start   building zh\content-creation\文章润色提示词.md
+ready   built in 3.02s
+start   building zh\content-creation\宣传slogan提示词.md
+ready   built in 1.16s
+start   building zh\content-creation\宣传slogan提示词.md and 1 more
+ready   built in 0.85s
+start   building zh\content-creation\推文快写.md and 2 more
+ready   built in 0.65s
+start   building zh\content-creation\Kimi-小红书一键生成爆款文案.md
+ready   built in 0.73s
+start   building zh\video\sora2-guide.md
+ready   built in 0.75s
+start   building zh\content-creation\SUNO歌词生成.md
+ready   built in 0.50s
+start   building zh\content-creation\Stable-Diffusion-prompt-生成器1.md
+ready   built in 0.64s
+start   building zh\work-efficiency\project-retrospective.md
+ready   built in 0.69s
+start   building zh\work-efficiency\project-retrospective.md and 1 more
+ready   built in 0.46s
+start   building zh\work-efficiency\meeting-summary.md
+ready   built in 0.50s
+start   building zh\academic\Kimi-PEST-模型搞定行业分析.md
+ready   built in 0.62s
+start   building zh\academic\Kimi-PEST-模型搞定行业分析.md and 2 more
+ready   built in 0.43s
+start   building zh\academic\Kimi苏格拉底式提问法.md and 7 more
+ready   built in 0.61s
+start   building zh\academic\网课学习助手（1分钟刷完一节网课）.md and 6 more
+ready   built in 0.43s
+start   building zh\academic\网课学习助手（1分钟刷完一节网课）.md and 5 more
+ready   built in 0.43s
+start   building zh\paper\literature-review.md
+ready   built in 0.65s
+start   building removed zh\novel\general-template.md
+
+✨ unlink [32mdocs\zh\novel\general-template.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.77s
+start   building removed .rspress\virtual-page-data.js and 286 more
+ready   built in 0.55s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.56s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.60s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.51s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.50s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.58s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.57s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.56s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.46s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.55s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.69s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.68s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.77s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.82s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.67s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.88s
+start   building zh\security\fanren-kepojia.md
+ready   built in 2.09s
+start   building zh\security\fanren-kepojia.md
+ready   built in 1.49s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.81s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.69s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.75s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.60s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.69s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.59s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.60s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.57s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.60s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.58s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.71s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.62s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.80s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.66s
+start   building zh\security\faq-huli.md
+ready   built in 0.90s
+start   building zh\security\faq-huli.md
+ready   built in 0.69s
+start   building zh\security\faq-huli.md
+ready   built in 0.76s
+start   building zh\security\faq-huli.md
+ready   built in 0.80s
+start   building zh\security\faq-huli.md
+ready   built in 0.64s
+start   building zh\security\faq-huli.md
+ready   built in 0.51s
+start   building zh\paper\free-aigc-check.md
+ready   built in 1.23s
+start   building zh\academic\利用记忆宫殿背诵课文-2.md
+ready   built in 0.53s
+start   building zh\academic\利用记忆宫殿背诵课文-2.md and 2 more
+ready   built in 0.55s
+start   building zh\academic\利用记忆宫殿背诵课文-2.md and 9 more
+ready   built in 0.64s
+start   building zh\academic\利用记忆宫殿背诵课文-2.md and 11 more
+ready   built in 0.57s
+start   building zh\academic\利用记忆宫殿背诵课文-2.md and 14 more
+ready   built in 0.61s
+start   building zh\academic\教案写作指令-2.md and 14 more
+ready   built in 0.73s
+start   building zh\paper\top-academic.md and 14 more
+ready   built in 1.42s
+start   building zh\paper\top-academic.md and 15 more
+ready   built in 0.71s
+start   building zh\video\sora2-portrait.md and 8 more
+ready   built in 0.79s
+start   building zh\academic\利用记忆宫殿背诵课文.md and 7 more
+ready   built in 0.62s
+start   building zh\video\sora2-register.md and 5 more
+ready   built in 0.87s
+start   building zh\content-creation\小红书账号定位（2步搞定账号定位）.md and 2 more
+ready   built in 0.61s
+start   building zh\security\grok3-jailbreak.md
+ready   built in 0.71s
+start   building zh\security\unlock-teach-text.md
+ready   built in 1.20s
+start   building zh\security\unlock-teach-text.md and 1 more
+ready   built in 0.62s
+start   building zh\security\unlock-teach-text.md and 3 more
+ready   built in 0.51s
+start   building zh\security\unlock-teach-0924.md and 7 more
+ready   built in 0.67s
+start   building zh\security\xiaoshuo-chuangzuo.md and 5 more
+ready   built in 0.65s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.41s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.40s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.32s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.29s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.27s
+start   building zh\others\对标博主账号分析-2.md
+ready   built in 0.50s
+start   building zh\others\对标博主账号分析-2.md and 1 more
+ready   built in 0.25s
+start   building zh\others\PPT整理提示词-2.md
+ready   built in 0.27s
+start   building zh\others\PPT整理提示词-2.md and 1 more
+ready   built in 0.19s
+start   building zh\others\对标博主账号分析.md
+ready   built in 0.18s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.29s
+start   building zh\paper\english-essay-grading.md and 1 more
+ready   built in 0.16s
+start   building zh\paper\literature-review.md and 1 more
+ready   built in 0.22s
+start   building zh\drawing\chatgpt-drawing.md
+ready   built in 0.28s
+start   building zh\drawing\chatgpt-drawing.md and 1 more
+ready   built in 0.22s
+start   building zh\drawing\catgirl.md
+ready   built in 0.23s
+start   building zh\drawing\catgirl.md and 1 more
+ready   built in 0.28s
+start   building zh\content-creation\朋友圈软广文案生成指令-2.md
+ready   built in 0.37s
+start   building zh\content-creation\爆款作品黄金发布时间指令.md
+ready   built in 0.29s
+start   building zh\content-creation\爆款作品黄金发布时间指令.md and 1 more
+ready   built in 0.20s
+start   building zh\drawing\lens.md
+ready   built in 0.25s
+start   building zh\drawing\character.md
+ready   built in 0.31s
+start   building zh\drawing\character.md and 3 more
+ready   built in 0.27s
+start   building zh\drawing\character.md and 4 more
+ready   built in 0.27s
+start   building zh\drawing\character.md and 5 more
+ready   built in 0.27s
+start   building zh\drawing\costume.md and 4 more
+ready   built in 0.22s
+start   building zh\drawing\costume.md and 3 more
+ready   built in 0.19s
+start   building zh\content-creation\短视频文案专家.md and 1 more
+ready   built in 0.28s
+start   building zh\content-creation\小红书种草类文案指令.md
+ready   built in 0.28s
+start   building zh\content-creation\儿童绘本创作者.md
+ready   built in 0.29s
+start   building zh\content-creation\儿童绘本创作者.md and 1 more
+ready   built in 0.17s
+start   building zh\content-creation\儿童绘本创作者.md and 4 more
+ready   built in 0.32s
+start   building zh\content-creation\儿童绘本创作者.md and 5 more
+ready   built in 0.28s
+start   building zh\content-creation\儿童绘本创作者.md and 7 more
+ready   built in 0.40s
+start   building zh\content-creation\Prompt创作助手.md and 5 more
+ready   built in 0.19s
+start   building zh\work-efficiency\weekly-report.md and 2 more
+ready   built in 0.23s
+start   building zh\work-efficiency\project-retrospective.md and 1 more
+ready   built in 0.32s
+start   building zh\work-efficiency\meeting-summary.md
+ready   built in 0.49s
+start   building docs\zh\ai-hub.md
+ready   built in 0.40s
+start   building zh\content-creation\SUNO歌词生成.md
+ready   built in 0.31s
+start   building zh\content-creation\期刊审稿.md
+ready   built in 0.28s
+start   building zh\content-creation\期刊审稿.md and 1 more
+ready   built in 0.24s
+start   building zh\content-creation\PPT生成指令.md
+ready   built in 0.27s
+start   building zh\content-creation\歌词作家提示词.md
+ready   built in 0.24s
+start   building zh\content-creation\诗词创作提示词.md
+ready   built in 0.29s
+start   building zh\drawing\couple.md
+ready   built in 0.27s
+start   building zh\content-creation\暖心治愈情感文案刨作助手-2.md
+ready   built in 0.31s
+start   building zh\content-creation\暖心治愈情感文案刨作助手-2.md and 1 more
+ready   built in 0.21s
+start   building docs\zh\index.md
+ready   built in 0.25s
+start   building docs\zh\quick-start.md
+ready   built in 0.30s
+start   building zh\content-creation\电商内容创作.md
+ready   built in 0.71s
+start   building zh\content-creation\小红书全能写手.md
+ready   built in 0.36s
+start   building zh\content-creation\小红书全能写手.md
+ready   built in 0.28s
+start   building zh\tools\nano-banana.md
+ready   built in 0.33s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.34s
+start   building zh\content-creation\诗意创作.md
+ready   built in 0.32s
+start   building zh\content-creation\营销活动策划提示词.md
+ready   built in 0.27s
+start   building zh\content-creation\推文快写.md
+ready   built in 0.34s
+start   building zh\paper\english-essay-grading.md
+ready   built in 2.00s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.59s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.43s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.70s
+start   building zh\paper\english-essay-grading.md
+ready   built in 0.41s
+start   building zh\paper\insert-references.md
+ready   built in 0.31s
+start   building zh\paper\insert-references.md
+ready   built in 0.36s
+start   building zh\paper\literature-analysis.md
+ready   built in 0.45s
+start   building zh\paper\literature-review.md
+ready   built in 0.54s
+start   building zh\paper\top-academic.md
+ready   built in 3.16s
+start   building zh\drawing\catgirl.md
+ready   built in 0.41s
+start   building zh\drawing\character.md
+ready   built in 0.50s
+start   building zh\drawing\character.md
+ready   built in 0.80s
+start   building removed zh\drawing\chatgpt-drawing.md
+
+✨ unlink [32mdocs\zh\drawing\chatgpt-drawing.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 6.05s
+start   building virtual modules
+ready   built in 0.35s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 284 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.47s
+
+✨ unlink [32mdocs\zh\drawing\couple.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 2.15s
+start   building virtual modules
+ready   built in 0.43s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 276 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 系统找不到指定的路径。 (os error 3)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.59s
+start   building zh\drawing\costume.md
+ready   built in 0.34s
+start   building zh\drawing\costume.md
+ready   built in 0.36s
+start   building zh\drawing\costume.md
+ready   built in 0.43s
+start   building zh\drawing\costume.md
+ready   built in 0.43s
+start   building zh\drawing\costume.md
+ready   built in 0.34s
+start   building zh\drawing\costume.md
+ready   built in 0.29s
+start   building zh\drawing\costume.md
+ready   built in 0.37s
+start   building zh\drawing\costume.md
+ready   built in 0.27s
+start   building zh\drawing\costume.md
+ready   built in 0.33s
+start   building zh\drawing\costume.md
+ready   built in 0.32s
+start   building zh\drawing\costume.md
+ready   built in 0.31s
+start   building zh\drawing\costume.md
+ready   built in 0.39s
+start   building zh\drawing\costume.md
+ready   built in 0.32s
+start   building zh\drawing\expression.md
+ready   built in 0.21s
+start   building zh\drawing\expression.md
+ready   built in 0.23s
+start   building zh\drawing\expression.md
+ready   built in 0.27s
+start   building zh\drawing\expression.md
+ready   built in 0.35s
+start   building zh\drawing\expression.md
+ready   built in 0.34s
+start   building zh\drawing\expression.md
+ready   built in 0.36s
+start   building zh\drawing\expression.md
+ready   built in 0.29s
+start   building zh\drawing\expression.md
+ready   built in 0.36s
+start   building zh\drawing\expression.md
+ready   built in 0.31s
+start   building zh\drawing\expression.md
+ready   built in 0.57s
+start   building zh\drawing\expression.md
+ready   built in 0.34s
+start   building zh\drawing\expression.md
+ready   built in 0.40s
+start   building zh\drawing\expression.md
+ready   built in 0.32s
+start   building zh\drawing\expression.md
+ready   built in 0.37s
+start   building zh\drawing\expression.md
+ready   built in 0.27s
+start   building zh\drawing\expression.md
+ready   built in 0.36s
+start   building zh\drawing\expression.md
+ready   built in 0.44s
+start   building zh\drawing\expression.md
+ready   built in 0.39s
+start   building zh\drawing\expression.md
+ready   built in 0.29s
+start   building zh\drawing\expression.md
+ready   built in 0.41s
+start   building zh\drawing\expression.md
+ready   built in 0.43s
+start   building zh\drawing\expression.md
+ready   built in 0.24s
+start   building zh\drawing\expression.md
+ready   built in 0.39s
+start   building zh\drawing\expression.md
+ready   built in 0.38s
+start   building docs\zh\index.md
+ready   built in 0.36s
+start   building docs\zh\quick-start.md
+ready   built in 0.29s
+start   building zh\content-creation\视频内容分析师.md
+ready   built in 0.30s
+start   building zh\content-creation\民间故事小说.md
+ready   built in 0.33s
+start   building zh\content-creation\诗词创作提示词.md
+ready   built in 0.25s
+start   building zh\content-creation\朋友圈软广文案生成指令-2.md
+ready   built in 0.41s
+start   building zh\content-creation\朋友圈软广文案生成指令-2.md and 1 more
+ready   built in 0.26s
+start   building zh\video\sora2-guide.md
+ready   built in 0.22s
+start   building zh\video\sora2-guide.md and 1 more
+ready   built in 0.30s
+start   building zh\video\sora2-register.md
+ready   built in 0.31s
+start   building zh\video\sora2-register.md and 1 more
+ready   built in 0.22s
+start   building zh\video\sora2-portrait.md
+ready   built in 0.25s
+start   building zh\video\sora2-portrait.md and 1 more
+ready   built in 0.58s
+start   building zh\drawing\costume.md
+ready   built in 0.48s
+start   building zh\drawing\costume.md and 1 more
+ready   built in 0.60s
+start   building zh\drawing\expression.md
+ready   built in 0.28s
+start   building zh\drawing\character.md
+ready   built in 0.76s
+start   building zh\drawing\catgirl.md
+ready   built in 0.28s
+start   building zh\drawing\lens.md
+ready   built in 0.33s
+start   building zh\drawing\lens.md
+ready   built in 0.41s
+start   building zh\drawing\lens.md
+ready   built in 0.23s
+start   building zh\drawing\lens.md
+ready   built in 0.31s
+start   building zh\drawing\lens.md
+ready   built in 0.29s
+start   building removed zh\security\grok3-jailbreak.md
+
+✨ unlink [32mdocs\zh\security\grok3-jailbreak.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 2.79s
+start   building virtual modules
+ready   built in 0.96s
+start   building removed D:/VidPic/aitsc/my-docs/docs/zh-TW/guide/start/getting-started.md and 275 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.53s
+start   building zh\drawing\character.md
+ready   built in 0.59s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.35s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.35s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.28s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.38s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.24s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.52s
+start   building zh\security\faq-huli.md
+ready   built in 0.27s
+start   building zh\security\faq-huli.md
+ready   built in 0.46s
+start   building zh\security\jailbreak-prompts-1114.md
+ready   built in 0.34s
+start   building zh\security\jailbreak-prompts-1114.md
+ready   built in 0.35s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.33s
+start   building zh\security\keyan-ketian.md
+ready   built in 0.41s
+start   building zh\security\longniang.md
+ready   built in 0.33s
+start   building zh\security\longniang.md
+ready   built in 0.34s
+start   building zh\security\longniang.md
+ready   built in 0.32s
+start   building zh\security\meimo.md
+ready   built in 0.43s
+start   building removed zh\security\unlock-teach-0924.md
+
+✨ unlink [32mdocs\zh\security\unlock-teach-0924.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 3.08s
+start   building virtual modules
+ready   built in 0.62s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 274 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.63s
+start   building zh\drawing\character.md
+ready   built in 0.69s
+start   building zh\security\xiaoshuo-chuangzuo.md
+ready   built in 0.25s
+start   building zh\security\yusaka-misaka.md
+ready   built in 0.31s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.39s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.34s
+start   building zh\tools\nano-banana.md
+ready   built in 0.35s
+start   building docs\zh\index.md
+ready   built in 0.33s
+start   building docs\zh\quick-start.md
+ready   built in 0.32s
+start   building zh\content-creation\Stable-Diffusion-prompt-生成器1.md
+ready   built in 0.20s
+start   building zh\content-creation\Stable-Diffusion-prompt-生成器1.md and 2 more
+ready   built in 0.13s
+start   building zh\content-creation\SUNO歌词生成.md and 2 more
+ready   built in 0.18s
+start   building zh\content-creation\SUNO歌词生成.md and 3 more
+ready   built in 0.18s
+start   building zh\content-creation\小红书全能写手.md and 1 more
+ready   built in 0.17s
+start   building zh\academic\英文文献阅读指令.md
+ready   built in 0.26s
+start   building zh\academic\英文文献阅读指令.md and 1 more
+ready   built in 0.21s
+start   building zh\others\thinking-prompt，让claude-3.5变成gpt-O1提示词.md
+ready   built in 0.30s
+start   building zh\others\对标博主账号分析-2.md
+ready   built in 0.27s
+start   building zh\video\sora2-guide.md
+ready   built in 0.21s
+start   building zh\video\sora2-guide.md and 2 more
+ready   built in 0.17s
+start   building zh\video\sora2-register.md and 2 more
+ready   built in 0.22s
+start   building zh\video\sora2-register.md and 1 more
+ready   built in 0.18s
+start   building zh\security\xiaoshuo-chuangzuo.md
+ready   built in 0.37s
+start   building zh\security\xiaoshuo-chuangzuo.md and 1 more
+ready   built in 0.19s
+start   building zh\security\meimo.md and 3 more
+ready   built in 0.23s
+start   building zh\security\faq-huli.md and 1 more
+ready   built in 0.31s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.23s
+start   building zh\others\PPT整理提示词-2.md
+ready   built in 0.31s
+start   building zh\others\kimi-canva.md
+ready   built in 0.36s
+start   building zh\others\kimi-canva.md and 1 more
+ready   built in 0.15s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.26s
+start   building zh\paper\insert-references.md
+ready   built in 0.27s
+start   building zh\paper\top-academic.md
+ready   built in 0.38s
+start   building zh\academic\教案写作指令.md
+ready   built in 0.25s
+start   building zh\academic\教案写作指令.md and 2 more
+ready   built in 0.18s
+start   building zh\academic\论文审稿提示词，用来对论文优化改写.md and 1 more
+ready   built in 0.25s
+start   building zh\academic\论文审稿提示词，用来对论文优化改写.md
+ready   built in 0.27s
+start   building zh\academic\Kimi苏格拉底式提问法.md
+ready   built in 0.35s
+start   building zh\drawing\lens.md
+ready   built in 0.62s
+start   building zh\drawing\lens.md and 1 more
+ready   built in 0.55s
+start   building zh\drawing\costume.md and 2 more
+ready   built in 0.22s
+start   building zh\drawing\expression.md and 1 more
+ready   built in 0.34s
+start   building zh\academic\利用记忆宫殿背诵课文-2.md
+ready   built in 0.39s
+start   building zh\academic\利用记忆宫殿背诵课文-2.md and 1 more
+ready   built in 0.54s
+start   building zh\academic\利用记忆宫殿背诵课文-2.md and 3 more
+ready   built in 0.20s
+start   building zh\academic\教案写作指令-2.md and 3 more
+ready   built in 0.22s
+start   building zh\paper\literature-analysis.md and 1 more
+ready   built in 0.26s
+start   building zh\paper\literature-review.md
+ready   built in 0.24s
+start   building zh\content-creation\爆款短视频脚本指令-2.md
+ready   built in 0.29s
+start   building zh\content-creation\暖心治愈情感文案刨作助手-2.md
+ready   built in 0.36s
+start   building zh\content-creation\朋友圈软广文案生成指令-2.md and 1 more
+ready   built in 0.23s
+start   building zh\content-creation\朋友圈软广文案生成指令-2.md
+ready   built in 0.23s
+start   building zh\academic\网课学习助手（1分钟刷完一节网课）.md
+ready   built in 0.42s
+start   building zh\academic\网课学习助手（1分钟刷完一节网课）.md and 1 more
+ready   built in 0.33s
+start   building zh\academic\Kimi-SWOT-企业分析.md and 1 more
+ready   built in 0.26s
+start   building zh\academic\Kimi-PEST-模型搞定行业分析.md
+ready   built in 0.29s
+start   building zh\content-creation\情绪化爆款标题指令.md
+ready   built in 0.28s
+start   building zh\content-creation\美文排版.md
+ready   built in 0.27s
+start   building zh\content-creation\仿写名人语录指令-2.md
+ready   built in 0.30s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.29s
+start   building zh\security\jailbreak-prompts-1114.md
+ready   built in 0.24s
+start   building zh\security\jailbreak-prompts-1114.md and 2 more
+ready   built in 0.36s
+start   building zh\security\jailbreak-prompts-1114.md and 5 more
+ready   built in 0.32s
+start   building zh\security\jailbreak-prompts-1114.md and 4 more
+ready   built in 0.24s
+start   building zh\others\对标博主账号分析.md and 2 more
+ready   built in 0.29s
+start   building zh\others\视频内容分析指令.md and 1 more
+ready   built in 0.24s
+start   building docs\zh\ai-hub.md
+ready   built in 0.33s
+start   building zh\content-creation\小红书爆款生成器.md
+ready   built in 0.29s
+start   building zh\content-creation\小红书爆款生成器.md and 1 more
+ready   built in 0.26s
+start   building zh\content-creation\民间故事小说.md
+ready   built in 0.32s
+start   building zh\security\yusaka-misaka.md
+ready   built in 0.29s
+start   building zh\content-creation\电商链接分析.md
+ready   built in 0.29s
+start   building zh\content-creation\小红书账号定位（2步搞定账号定位）.md
+ready   built in 0.32s
+start   building zh\content-creation\小红书账号定位（2步搞定账号定位）.md and 1 more
+ready   built in 0.45s
+start   building zh\content-creation\小红书数据分析.md
+ready   built in 0.25s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.47s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.47s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.38s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.41s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.29s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.42s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.42s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.48s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.36s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.40s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.33s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.27s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.40s
+start   building zh\paper\free-aigc-check.md
+ready   built in 0.38s
+start   building zh\content-creation\Prompt创作助手.md
+ready   built in 0.37s
+start   building zh\content-creation\Prompt创作助手.md and 1 more
+ready   built in 0.42s
+start   building zh\work-efficiency\project-retrospective.md
+ready   built in 0.51s
+start   building zh\content-creation\推文快写.md
+ready   built in 0.28s
+start   building zh\content-creation\推文快写.md and 2 more
+ready   built in 0.23s
+start   building zh\content-creation\推文快写.md and 3 more
+ready   built in 0.25s
+start   building zh\content-creation\Kimi-Xmind-将-PDF-生成思维导图.md and 1 more
+ready   built in 0.26s
+start   building zh\content-creation\Kimi-小红书一键生成爆款文案.md
+ready   built in 0.23s
+start   building docs\zh-TW\index.md
+ready   built in 0.23s
+start   building docs\en\index.md
+ready   built in 0.26s
+start   building zh\content-creation\歌词作家提示词.md
+ready   built in 0.33s
+start   building zh\content-creation\仿写文章指令.md
+ready   built in 0.30s
+start   building docs\zh\ai-hub.md
+ready   built in 0.36s
+start   building docs\zh\ai-hub.md
+ready   built in 0.36s
+start   building docs\zh\ai-hub.md
+ready   built in 0.59s
+start   building docs\zh\ai-hub.md
+ready   built in 0.38s
+start   building docs\zh\ai-hub.md
+ready   built in 0.46s
+start   building docs\zh\ai-hub.md
+ready   built in 0.46s
+start   building docs\zh\ai-hub.md
+ready   built in 0.48s
+start   building docs\zh\ai-hub.md
+ready   built in 0.47s
+start   building docs\zh\ai-hub.md
+ready   built in 0.41s
+start   building docs\zh\ai-hub.md
+ready   built in 0.49s
+start   building docs\zh\ai-hub.md
+ready   built in 0.39s
+start   building docs\zh\ai-hub.md
+ready   built in 0.33s
+start   building docs\zh\ai-hub.md
+ready   built in 0.35s
+start   building docs\zh\ai-hub.md
+ready   built in 0.40s
+start   building docs\zh\ai-hub.md
+ready   built in 0.47s
+start   building docs\zh\ai-hub.md
+ready   built in 0.31s
+start   building docs\zh\ai-hub.md
+ready   built in 0.49s
+start   building docs\zh\ai-hub.md
+ready   built in 0.47s
+start   building docs\zh\ai-hub.md
+ready   built in 0.43s
+start   building docs\zh\ai-hub.md
+ready   built in 0.40s
+start   building docs\zh\ai-hub.md
+ready   built in 0.93s
+start   building docs\zh\ai-hub.md
+ready   built in 0.35s
+start   building docs\zh\ai-hub.md
+ready   built in 0.37s
+start   building docs\zh\ai-hub.md
+ready   built in 0.44s
+start   building docs\zh\ai-hub.md
+ready   built in 0.49s
+start   building docs\zh\ai-hub.md
+ready   built in 0.28s
+start   building docs\zh\ai-hub.md
+ready   built in 0.31s
+start   building docs\zh\ai-hub.md
+ready   built in 0.51s
+start   building docs\zh\ai-hub.md
+ready   built in 0.44s
+start   building docs\zh\ai-hub.md
+ready   built in 0.44s
+start   building docs\zh\ai-hub.md
+ready   built in 0.39s
+start   building docs\zh\ai-hub.md
+ready   built in 0.33s
+start   building docs\zh\ai-hub.md
+ready   built in 0.51s
+start   building docs\zh\ai-hub.md
+ready   built in 0.47s
+start   building docs\zh\ai-hub.md
+ready   built in 0.32s
+start   building docs\zh\ai-hub.md
+ready   built in 0.51s
+start   building docs\zh\ai-hub.md
+ready   built in 0.47s
+start   building docs\zh\ai-hub.md
+ready   built in 0.32s
+start   building docs\zh\ai-hub.md
+ready   built in 0.39s
+start   building docs\zh\ai-hub.md
+ready   built in 0.29s
+start   building docs\zh\ai-hub.md
+ready   built in 0.41s
+start   building docs\zh\ai-hub.md
+ready   built in 0.35s
+start   building docs\zh\ai-hub.md
+ready   built in 0.56s
+start   building zh\content-creation\历史人物轶事解说文案.md
+ready   built in 0.38s

@@ -11,7 +11,7 @@ hero:
       link: /en/quick-start
     - theme: alt
       text: GitHub
-      link: https://github.com/your-username/your-repo
+      link: https://github.com/Zeora315/ai-prompts
 features:
   - title: Work & Efficiency
     details: Meeting notes, email polishing, task breakdown — boost everyday productivity.
