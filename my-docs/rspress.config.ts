@@ -89,6 +89,7 @@ const zhSidebar: SidebarItem[] = [
       { text: 'SORA2 使用指南', link: '/video/sora2-guide' },
       { text: 'SORA2 真人绘画', link: '/video/sora2-portrait' },
       { text: 'SORA2 注册教程', link: '/video/sora2-register' },
+      { text: '英语翻译/修改', link: '/content-creation/英语翻译修改' },
     ],
   },
   {

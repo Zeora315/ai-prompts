@@ -1890,3 +1890,69 @@ start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project
 ready   built in 1.05s
 start   building docs\zh\ai-hub.md
 ready   built in 1.48s
+start   building docs\zh\index.md
+ready   built in 0.24s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 另一个程序正在使用此文件，进程无法访问。 (os error 32)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+start   building docs\zh\quick-start.md
+ready   built in 0.25s
+start   building zh\work-efficiency\meeting-summary.md
+ready   built in 0.34s
+start   building zh\work-efficiency\weekly-report.md
+ready   built in 0.42s
+start   building zh\work-efficiency\project-retrospective.md
+ready   built in 0.27s
+start   building zh\content-creation\Kimi-Xmind-将-PDF-生成思维导图.md
+ready   built in 0.41s
+start   building zh\content-creation\Kimi-小红书一键生成爆款文案.md
+ready   built in 0.30s
+start   building zh\content-creation\Prompt创作助手.md
+ready   built in 0.31s
+start   building zh\content-creation\小红书全能写手.md
+ready   built in 0.28s
+start   building zh\academic\教案写作指令.md
+ready   built in 0.24s
+start   building zh\academic\教案写作指令.md and 1 more
+ready   built in 0.22s
+start   building zh\academic\利用记忆宫殿背诵课文.md and 1 more
+ready   built in 0.25s
+start   building zh\academic\利用记忆宫殿背诵课文.md and 2 more
+ready   built in 0.23s
+start   building zh\academic\英文文献阅读指令.md
+ready   built in 0.22s
+start   building zh\security\fanren-kepojia.md
+ready   built in 0.35s
+start   building zh\security\faq-huli.md
+ready   built in 0.31s
+start   building zh\security\faq-huli.md and 1 more
+ready   built in 0.22s
+start   building zh\security\unlock-teach-text.md and 1 more
+ready   built in 0.19s
+start   building zh\others\对标博主账号分析-2.md
+ready   built in 0.22s
+start   building zh\paper\top-academic.md
+ready   built in 0.18s
+start   building zh\paper\top-academic.md and 5 more
+ready   built in 0.38s
+start   building zh\others\即梦AI-儿童绘本故事指令.md and 3 more
+ready   built in 0.30s
+start   building zh\others\即梦AI-儿童绘本故事指令.md and 4 more
+ready   built in 0.37s
+start   building zh\others\视频内容分析指令.md and 3 more
+ready   built in 0.29s
+start   building zh\others\视频内容分析指令.md and 2 more
+ready   built in 0.23s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.38s
+start   building zh\tools\nano-banana.md
+ready   built in 0.32s
+start   building zh\security\xiaoshuo-chuangzuo.md
+ready   built in 0.31s
+start   building zh\security\xiaoshuo-chuangzuo.md and 2 more
+ready   built in 0.25s
+start   building zh\security\longniang.md and 1 more
+ready   built in 0.26s
+start   building zh\security\longniang.md
+ready   built in 0.25s
+start   building docs\zh\index.md
+ready   built in 0.46s
