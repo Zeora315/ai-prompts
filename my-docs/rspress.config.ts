@@ -147,14 +147,6 @@ const zhSidebar: SidebarItem[] = [
     ],
   },
   {
-    text: 'SORA2 视频',
-    items: [
-      { text: 'SORA2 使用指南', link: '/video/sora2-guide' },
-      { text: 'SORA2 真人绘画', link: '/video/sora2-portrait' },
-      { text: 'SORA2 注册教程', link: '/video/sora2-register' },
-    ],
-  },
-  {
     text: '工具与案例',
     items: [
       { text: 'ChatGPT 实用指南', link: '/tools/chatgpt-practical' },

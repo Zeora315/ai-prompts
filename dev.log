@@ -1731,3 +1731,86 @@ start   building zh\video\sora2-portrait.md
 ready   built in 0.29s
 start   building zh\drawing\costume.md
 ready   built in 0.45s
+start   building zh\academic\Kimi-PEST-模型搞定行业分析.md
+ready   built in 0.54s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.30s
+start   building zh\others\kimi-canva.md
+ready   built in 0.34s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.53s
+start   building docs\zh\index.md
+ready   built in 0.35s
+
+✨ add [32mdocs\zh\drawing\couple.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.33s
+start   building virtual modules
+ready   built in 0.77s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 301 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 系统找不到指定的路径。 (os error 3)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.65s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.43s
+start   building removed zh-TW\academic\Kimi-PEST-模型搞定行业分析.md
+
+✨ unlink [32mdocs\zh-TW\academic\网课学习助手（1分钟刷完一节网课）.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 1.31s
+start   building virtual modules
+ready   built in 0.69s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 302 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 系统找不到指定的路径。 (os error 3)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.54s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.45s
+start   building zh-TW\tools\chatgpt-practical.md
+ready   built in 0.43s
+start   building docs\en\index.md
+ready   built in 0.35s
+start   building docs\zh\index.md
+ready   built in 1.11s
+start   building docs\zh\quick-start.md
+ready   built in 0.32s
+start   building docs\zh\ai-hub.md
+ready   built in 0.47s
+start   building zh\drawing\couple.md
+ready   built in 0.37s
+start   building zh\others\thinking-prompt，让claude-3.5变成gpt-O1提示词.md
+ready   built in 1.21s
+start   building zh\others\thinking-prompt，让claude-3.5变成gpt-O1提示词.md and 1 more
+ready   built in 0.32s
+start   building zh\others\thinking-prompt，让claude-3.5变成gpt-O1提示词.md and 6 more
+ready   built in 0.33s
+start   building zh\others\PPT整理提示词.md and 4 more
+ready   built in 0.25s
+start   building zh\video\sora2-portrait.md
+ready   built in 0.43s
+start   building zh\others\kimi-canva.md
+ready   built in 0.26s
+start   building zh\others\kimi-canva.md and 2 more
+ready   built in 0.41s
+start   building zh\others\即梦AI-儿童绘本故事指令.md and 1 more
+ready   built in 0.32s
+start   building zh\paper\insert-references.md
+ready   built in 0.33s
+start   building zh\content-creation\美文排版.md
+ready   built in 0.36s
+start   building zh\content-creation\美文排版.md and 1 more
+ready   built in 0.33s
+start   building zh\content-creation\Prompt创作助手.md and 1 more
+ready   built in 0.33s
+start   building zh\content-creation\诗词创作提示词.md
+ready   built in 0.39s
+start   building zh\content-creation\诗词创作提示词.md and 1 more
+ready   built in 0.41s
