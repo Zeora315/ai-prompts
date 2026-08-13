@@ -25,16 +25,8 @@ features:
     details: 行业/企业分析、论文研读、学习效率，以及文献分析、文献综述、顶会论文与参考文献插入等论文指令。
     icon: 🎓
     link: /academic/Kimi-PEST-模型搞定行业分析
-  - title: 工具与案例
-    details: ChatGPT 实用指南、Nano Banana 案例等实用工具集。
-    icon: 🧰
-    link: /tools/chatgpt-practical
-  - title: AI 安全研究
-    details: 越狱/破限提示词研究素材，仅作安全实践与防御分析。
-    icon: 🛡️
-    link: /security/deepseek-jailbreak
   - title: 其他
-    details: PPT 整理、账号分析、创意生成等更多实用提示词。
+    details: PPT 整理、账号分析、创意生成、实用工具与 AI 安全研究等更多实用提示词。
     icon: 🌟
     link: /others/kimi-canva
 ---
