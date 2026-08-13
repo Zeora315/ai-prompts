@@ -187,6 +187,10 @@ export default defineConfig({
     },
   ],
   title: 'AI 提示词集',
+  // 注入 Google AdSense 广告代码到每个页面的 <head> 中（构建产物生效）
+  head: [
+    '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6803236056895249" crossorigin="anonymous"></script>',
+  ],
   icon: '/rspress-icon.png',
   logo: {
     light: '/rspress-light-logo.png',
