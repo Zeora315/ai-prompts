@@ -90,6 +90,10 @@ const zhSidebar: SidebarItem[] = [
       { text: 'SORA2 真人绘画', link: '/video/sora2-portrait' },
       { text: 'SORA2 注册教程', link: '/video/sora2-register' },
       { text: '英语翻译/修改', link: '/content-creation/英语翻译修改' },
+      { text: '改写多版本', link: '/content-creation/改写多版本' },
+      { text: '智囊团', link: '/content-creation/智囊团' },
+      { text: '重写提示词', link: '/content-creation/重写提示词' },
+      { text: '心理治疗师', link: '/content-creation/心理治疗师' },
     ],
   },
   {
