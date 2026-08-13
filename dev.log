@@ -1814,3 +1814,79 @@ start   building zh\content-creation\诗词创作提示词.md
 ready   built in 0.39s
 start   building zh\content-creation\诗词创作提示词.md and 1 more
 ready   built in 0.41s
+
+✨ change [32mrspress.config.ts[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 3.79s
+start   building virtual modules
+ready   built in 0.59s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 302 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 系统找不到指定的路径。 (os error 3)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.64s
+start   building docs\zh\index.md
+ready   built in 0.63s
+start   building docs\zh\index.md
+ready   built in 0.28s
+start   building removed zh-TW\academic\Kimi-PEST-模型搞定行业分析.md
+
+✨ unlink [32mdocs\zh-TW\academic\Kimi-PEST-模型搞定行业分析.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 3.27s
+start   building virtual modules
+ready   built in 0.77s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 302 more
+ready   built in 0.94s
+start   building docs\zh\index.md
+ready   built in 0.40s
+start   building docs\zh\quick-start.md
+ready   built in 0.25s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 系统找不到指定的路径。 (os error 3)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+start   building docs\zh\ai-hub.md
+ready   built in 0.48s
+start   building zh\content-creation\小红书爆款生成器.md
+ready   built in 0.36s
+start   building zh\content-creation\小红书爆款生成器.md and 1 more
+ready   built in 0.33s
+
+✨ change [32mrspress.config.ts[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 0.84s
+start   building virtual modules
+ready   built in 0.16s
+start   building removed D:/VidPic/aitsc/my-docs/docs/zh-TW/content-creation/营销活动策划提示词.md and 17 more
+ready   built in 0.19s
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+start   building docs\zh\ai-hub.md
+ready   built in 0.21s
+start   building docs\zh\index.md
+ready   built in 0.21s
+start   building removed zh-TW\academic\Kimi-PEST-模型搞定行业分析.md and 12 more
+
+✨ unlink [32mdocs\zh-TW\academic\Kimi-PEST-模型搞定行业分析.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 3.87s
+start   building virtual modules
+ready   built in 0.94s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 302 more
+ready   built in 1.05s
+start   building docs\zh\ai-hub.md
+ready   built in 1.48s

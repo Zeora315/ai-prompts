@@ -126,12 +126,8 @@ const zhSidebar: SidebarItem[] = [
       { text: '对标博主账号分析', link: '/others/对标博主账号分析' },
       { text: 'PPT整理提示词', link: '/others/PPT整理提示词-2' },
       { text: '对标博主账号分析', link: '/others/对标博主账号分析-2' },
-    ],
-  },
-  {
-    text: 'AI 安全研究（越狱/破限）',
-    collapsed: true,
-    items: [
+      { text: 'ChatGPT 实用指南', link: '/tools/chatgpt-practical' },
+      { text: '100 个 Nano Banana 案例', link: '/tools/nano-banana' },
       { text: '【Deepseek 专用】解禁词', link: '/security/deepseek-jailbreak' },
       { text: '【grok3 专用】解禁词', link: '/security/grok3-jailbreak' },
       { text: '解锁教学文字版（含 word 版解锁词）', link: '/security/unlock-teach-text' },
@@ -144,13 +140,6 @@ const zhSidebar: SidebarItem[] = [
       { text: '魅魔提示词', link: '/security/meimo' },
       { text: '小说创作提示词', link: '/security/xiaoshuo-chuangzuo' },
       { text: '御坂美琴提示词', link: '/security/yusaka-misaka' },
-    ],
-  },
-  {
-    text: '工具与案例',
-    items: [
-      { text: 'ChatGPT 实用指南', link: '/tools/chatgpt-practical' },
-      { text: '100 个 Nano Banana 案例', link: '/tools/nano-banana' },
     ],
   },
 ];
