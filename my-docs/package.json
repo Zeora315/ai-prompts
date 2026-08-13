@@ -13,7 +13,8 @@
     "outputDirectory": "doc_build"
   },
   "dependencies": {
-    "@rspress/core": "^2.0.16"
+    "@rspress/core": "^2.0.16",
+    "@rspress/plugin-llms": "^2.0.19"
   },
   "devDependencies": {
     "@types/node": "^22.8.1",

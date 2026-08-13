@@ -1540,3 +1540,152 @@ start   building docs\zh\ai-hub.md
 ready   built in 0.56s
 start   building zh\content-creation\历史人物轶事解说文案.md
 ready   built in 0.38s
+start   building docs\zh-TW\ai-hub.md
+ready   built in 0.42s
+start   building docs\zh-TW\ai-hub.md and 1 more
+ready   built in 0.32s
+start   building docs\en\ai-hub.md
+ready   built in 0.25s
+start   building zh\content-creation\爆款小红书提示词.md
+ready   built in 0.46s
+start   building zh\content-creation\爆款小红书提示词.md and 1 more
+ready   built in 0.60s
+start   building zh\content-creation\诗词创作提示词.md and 1 more
+ready   built in 0.86s
+start   building zh\content-creation\爆款文案生成提示词.md
+ready   built in 0.86s
+start   building zh\content-creation\爆款文章仿写AI指令.md
+ready   built in 0.38s
+start   building zh\content-creation\销售文案提示词.md
+ready   built in 0.39s
+start   building removed zh-TW\academic\Kimi-PEST-模型搞定行业分析.md
+
+✨ unlink [32mdocs\zh-TW\academic\Kimi-PEST-模型搞定行业分析.md[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+error   [browser] Uncaught (in promise) ChunkLoadError: Loading chunk docs_zh_paper_english-essay-grading_md_lazy-compilation-proxy failed.
+(error: http://localhost:3000/static/js/async/docs_zh_paper_english-essay-grading_md_lazy-compilation-proxy.js)
+error   [browser] Uncaught (in promise) ChunkLoadError: Loading chunk docs_zh_academic_md_lazy-compilation-proxy-_bdc1 failed.
+(error: http://localhost:3000/static/js/async/docs_zh_academic_md_lazy-compilation-proxy-_bdc1.js)
+error   [browser] Uncaught (in promise) ChunkLoadError: Loading chunk docs_zh_drawing_character_md_lazy-compilation-proxy failed.
+(error: http://localhost:3000/static/js/async/docs_zh_drawing_character_md_lazy-compilation-proxy.js)
+error   [browser] Uncaught ChunkLoadError: Loading chunk docs_zh_drawing_character_md_lazy-compilation-proxy failed.
+(error: http://localhost:3000/static/js/async/docs_zh_drawing_character_md_lazy-compilation-proxy.js)
+ready   built in 5.63s
+start   building virtual modules
+ready   built in 0.86s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 300 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.61s
+start   building zh\security\deepseek-jailbreak.md
+ready   built in 0.20s
+start   building docs\zh\index.md
+ready   built in 0.47s
+start   building zh\others\kimi-canva.md
+ready   built in 0.42s
+start   building zh\others\kimi-canva.md and 1 more
+ready   built in 0.23s
+start   building zh\others\kimi-canva.md and 5 more
+ready   built in 0.27s
+start   building zh\others\即梦AI-儿童绘本故事指令.md and 3 more
+ready   built in 0.55s
+start   building zh\academic\英文文献阅读指令-2.md and 1 more
+ready   built in 0.29s
+start   building zh\academic\英文文献阅读指令-2.md and 3 more
+ready   built in 0.54s
+start   building zh\academic\英文文献阅读指令-2.md and 4 more
+ready   built in 0.82s
+start   building zh\academic\论文-Kimchat指令模型手册.md and 4 more
+ready   built in 0.49s
+start   building zh\academic\论文-Kimchat指令模型手册.md and 5 more
+ready   built in 0.58s
+start   building zh\drawing\expression.md and 2 more
+ready   built in 0.37s
+start   building zh\drawing\costume.md and 1 more
+ready   built in 0.43s
+start   building zh\drawing\character.md
+ready   built in 0.44s
+
+✨ change [32mrspress.config.ts[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 5.42s
+start   building virtual modules
+ready   built in 1.95s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 300 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 目录不是空的。 (os error 145)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 1.88s
+start   building zh\drawing\costume.md
+ready   built in 0.88s
+start   building zh\drawing\expression.md
+ready   built in 2.06s
+start   building docs\zh\index.md
+ready   built in 0.53s
+start   building docs\zh\quick-start.md
+ready   built in 0.42s
+start   building docs\zh\ai-hub.md
+ready   built in 0.32s
+start   building docs\zh\ai-hub.md and 2 more
+ready   built in 0.26s
+start   building zh\work-efficiency\project-retrospective.md
+ready   built in 0.35s
+start   building zh\content-creation\Kimi-Xmind-将-PDF-生成思维导图.md
+ready   built in 0.30s
+start   building zh\content-creation\Kimi-Xmind-将-PDF-生成思维导图.md and 2 more
+ready   built in 0.22s
+start   building zh\content-creation\Prompt创作助手.md and 1 more
+ready   built in 0.28s
+start   building zh\content-creation\Prompt创作助手.md
+ready   built in 0.34s
+start   building zh-TW\content-creation\Prompt创作助手.md
+ready   built in 0.33s
+start   building docs\zh-TW\ai-hub.md
+ready   built in 0.41s
+start   building docs\zh-TW\ai-hub.md and 1 more
+ready   built in 0.24s
+start   building zh-TW\work-efficiency\meeting-summary.md and 1 more
+ready   built in 0.33s
+start   building zh-TW\work-efficiency\weekly-report.md
+ready   built in 0.36s
+start   building docs\zh-TW\index.md
+ready   built in 0.35s
+start   building zh\tools\chatgpt-practical.md
+ready   built in 0.43s
+start   building zh\tools\nano-banana.md
+ready   built in 0.50s
+start   building docs\zh\index.md
+ready   built in 0.46s
+start   building docs\zh-TW\index.md
+ready   built in 0.33s
+start   building docs\en\index.md
+ready   built in 0.32s
+start   building package.json
+ready   built in 0.56s
+
+✨ change [32mrspress.config.ts[39m, dev server will restart...
+
+  ➜  Local:    http://localhost:3000/
+  ➜  Network:  use --host to expose
+
+start   build started...
+ready   built in 4.56s
+start   building virtual modules
+ready   built in 0.64s
+start   building removed D:/VidPic/aitsc/my-docs/docs/en/work-efficiency/project-retrospective.md and 300 more
+Rspack persistent cache save failed: Rspack FS Error:IO error: 系统找不到指定的路径。 (os error 3)
+  Persistent cache has been disabled for this session. Restart the process to re-enable it.
+ready   built in 0.50s
+start   building docs\zh\quick-start.md
+ready   built in 0.52s
+start   building i18n.json
+ready   built in 0.44s
+start   building i18n.json
+ready   built in 0.37s

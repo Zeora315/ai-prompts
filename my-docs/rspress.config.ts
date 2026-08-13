@@ -1,6 +1,7 @@
 import * as path from 'node:path';
 import OpenCC from 'opencc-js';
 import { defineConfig } from '@rspress/core';
+import { pluginLlms } from '@rspress/plugin-llms';
 
 const toTW = OpenCC.Converter({ from: 'cn', to: 'tw' });
 
@@ -176,6 +177,8 @@ function toTWItem(item: SidebarItem): SidebarItem {
 export default defineConfig({
   root: path.join(__dirname, 'docs'),
   lang: 'zh',
+  // 启用 SSG-MD，生成各页 .md 及 llms.txt，并在标题下方注入「复制 Markdown / 复制 Markdown 链接」按钮
+  plugins: [pluginLlms()],
   // 国际化：简体中文为默认语言（路由无前缀），繁体中文 /en 加语言前缀
   locales: [
     {
@@ -199,8 +202,6 @@ export default defineConfig({
   ],
   title: 'AI 提示词集',
   icon: '/rspress-icon.png',
-  // 开启 SSG-MD，生成各页 .md 纯文本及 llms.txt 索引，并启用「复制 Markdown / 复制 Markdown 链接」按钮
-  llms: true,
   logo: {
     light: '/rspress-light-logo.png',
     dark: '/rspress-dark-logo.png',
