@@ -94,6 +94,7 @@ const zhSidebar: SidebarItem[] = [
       { text: '智囊团', link: '/content-creation/智囊团' },
       { text: '重写提示词', link: '/content-creation/重写提示词' },
       { text: '心理治疗师', link: '/content-creation/心理治疗师' },
+      { text: 'AI 写小说图文教程', link: '/content-creation/AI写小说图文教程' },
     ],
   },
   {
