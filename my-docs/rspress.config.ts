@@ -96,6 +96,7 @@ const zhSidebar: SidebarItem[] = [
       { text: '心理治疗师', link: '/content-creation/心理治疗师' },
       { text: 'AI 写小说图文教程', link: '/content-creation/AI写小说图文教程' },
       { text: 'AI 漫剧人物提示词通用公式模板', link: '/content-creation/AI漫剧人物提示词通用公式模板' },
+      { text: '15 类 AI 剧题材人物提示词案例', link: '/content-creation/15类AI剧题材人物提示词案例' },
     ],
   },
   {
